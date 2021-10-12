@@ -1,4 +1,4 @@
-[<img align="center" alt="dynamored.com" width="100%" src="https://dynamored.com/resources/branding/projects/odin.png" />][website]
+[<img align="center" alt="dynamored.com" width="100%" src="https://cdn.dynamored.com/resources/branding/projects/odin.png" />][website]
 
 ### Hi there, welcome on [Odin Project][website] 👋
 
